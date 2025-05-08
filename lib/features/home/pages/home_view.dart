@@ -1,6 +1,6 @@
 import 'package:exam_5/features/home/manager/home_state.dart';
-import 'package:exam_5/features/home/pages/bottom_item.dart';
-import 'package:exam_5/features/home/pages/home_item.dart';
+import 'package:exam_5/features/home/widgets/bottom_item.dart';
+import 'package:exam_5/features/home/widgets/home_item.dart';
 import 'package:exam_5/features/home/widgets/sott_bottom_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
